@@ -66,3 +66,4 @@ brew cask install iterm2
 brew cask install java
 brew cask install java6
 brew cask install java8
+brew cask install spotify
