@@ -47,14 +47,22 @@ brew install screen
 # Install other useful binaries.
 brew install git
 brew install git-lfs
+brew install jenv
+brew install gradle
 
 # Remove outdated versions from the cellar.
 brew cleanup
 
 # Casks
+brew tap homebrew/cask-versions
 brew cask install google-chrome
 brew cask install dropbox
 brew cask install android-studio
+brew cask install android-studio-preview
 brew cask install intellij-idea-ce
 brew cask install sizeup
 brew cask install google-chrome-canary
+brew cask install iterm2
+brew cask install java
+brew cask install java6
+brew cask install java8
