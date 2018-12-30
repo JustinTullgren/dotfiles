@@ -49,6 +49,8 @@ brew install git
 brew install git-lfs
 brew install jenv
 brew install gradle
+brew install npm
+
 
 # Remove outdated versions from the cellar.
 brew cleanup
